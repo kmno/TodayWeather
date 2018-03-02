@@ -48,6 +48,6 @@ public class WeatherPresenterTest {
         presenter.sendWeatherRequest();
         verify(mockedView).showProgress();
         verify(weatherCall).enqueue(mArgumentCaptor.capture());
-        Assert.assertTrue("dsdsdsdadda", true);
+       // Assert.assertTrue("dsdsdsdadda", true);
     }
 }
