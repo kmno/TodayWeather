@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TodayWeather</string>
+    <string name="blank">…</string>
+    <string name="max_blank">Max : …</string>
+    <string name="min_blank">Min : …</string>
+    <string name="humidity_blank">Humidity : …</string>
+    <string name="FailedErrorMsg">Failed to Get Response!\nCheck Params and Try Again</string>
+    <string name="NullResponseErrorMsg">Something Went Wrong!\nTry Again</string>
+</resources>
